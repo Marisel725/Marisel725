@@ -12,8 +12,8 @@
 const marisel = {
   pronouns: "she" 
   code: [HTML, CSS, Javascript, Java],
-  tools: [Mysql, Docker],
-  softSkills: [ metodologia de trabajo, Learning Agility, Desing Thinking, Comunicacion efectiva ]
+  tools: [Mysql, Docker, Figma],
+  softSkills: [ metodologia de trabajo, Learning Agility, Desing Thinking, Comunicacion efectiva, UX/UI ]
  challenge: "I'm doing the ToDo app challenge turning over everything I've learned."
 }
 ```
