@@ -22,6 +22,4 @@ const marisel = {
 
 ---
 
-⭐️ From Marisel - Futura programadora -
-
 
