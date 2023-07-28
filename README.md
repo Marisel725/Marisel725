@@ -18,7 +18,7 @@ const marisel = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am new to this path and very committed to learning it all, </b> so if you want to gift me advice, <b> I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I am new to this path and very committed to learning it all, </b> so if you want to gift me advice, <b> I'll be happy to meet you more!</b></em>
 
 ---
 
