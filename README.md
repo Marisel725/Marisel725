@@ -15,7 +15,6 @@ const marisel = {
   code: [HTML, CSS, Javascript, Java, React],
   tools: [Mysql, Docker, Figma],
   softSkills: [ Metodologia Del Trabajo, Learning Agility, Desing Thinking, Comunicacion Efectiva, UX/UI ]
- challenge: "I'm doing the ToDo app challenge turning over everything I've learned."
 }
 ```
 
